@@ -1,3 +1,3 @@
 #How to use
 
-php decode.php <transaction-hex>
+php decode.php transaction-hex
